@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+<div class="home">
+ <div class="top card">
+
+
+    <p class="description">{{ site.description }}</p>
+
+    <a href="nos" class="btn">Saber Máis</a>
+     <br>
+
+     <div class="row">
+         <div class="col-4">
+             <img class="u-max-full-width" src="/assets/www/feder.png" />
+         </div>
+         <div class="col-4">
+             <img class="u-max-full-width" src="/assets/www/xunta.png" />
+         </div>
+         <div class="col-4">
+             <img class="u-max-full-width" src="/assets/www/castrelo.png" />
+         </div>
+     </div>
+  </div>
+
+  <div class="posts card">
+      <div class="card-content white-text">
+          <span class="card-title">Contacto</span>
+          <div class="row">
+              <div class="offset-by-two eight columns contacto">
+                  <ul>
+                      <li>
+                          <a class="mail" href="mailto:{{site.email}}">
+                          </a>
+                      </li>
+                      <li>
+                          <a class="tlf" href="tel:+34671467937">
+                          </a>
+                      </li>
+                  </ul>
+              </div>
+          </div>
+      </div>
+  </div>
+  <div class="posts card">
+      <div class="card-content white-text">
+      <span class="card-title">Blog</span>
+
+      <ul class="post-list">
+        {% for post in site.posts %}
+          <li>
+            <span class="post-meta">
+                {{ post.date | date: "%-d/%-m/%Y" }}
+            </span>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>            
+          </li>
+        {% endfor %}
+      </ul>
+
+      <p class="rss-subscribe">subscribete <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+      </div>
+   </div>
+
+</div>

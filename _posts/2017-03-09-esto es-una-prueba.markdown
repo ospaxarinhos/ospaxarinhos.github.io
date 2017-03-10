@@ -1,0 +1,13 @@
+﻿---
+layout: post
+title:  "Esto es una prueba!"
+date:   2017-03-09 03:50:12 +0200
+categories: actividade entroido
+author: Alba García.
+---
+
+![hero]({{ site.baseurl }}/assets/Blog/2017/2/Carnaval.jpeg){:class="img-responsive post_image"}
+<br>
+Orbi porta bibendum augue. Praesent ultrices eros a tincidunt blandit. Mauris libero est, placerat a fermentum ut, volutpat nec nisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque et turpis quis ligula finibus convallis. Nunc porta, orci sit amet pulvinar sodales, est tortor feugiat quam, in aliquet ex enim quis libero. Nullam tortor libero, dignissim non imperdiet ac, vulputate vel neque. Morbi at nisi risus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc gravida suscipit nibh id fringilla. In feugiat lectus massa, semper condimentum lacus vestibulum quis. Nunc ac accumsan diam. Integer in risus consectetur, aliquam risus non, placerat ante. Curabitur ex lacus, luctus non euismod in, aliquet a lacus.
+
+Curabitur pharetra fringilla tortor eu faucibus. Nunc faucibus lacus pellentesque, condimentum neque nec, tempus sem. Curabitur a tempor purus. Praesent auctor scelerisque nunc in elementum. Vestibulum consequat mauris ac faucibus viverra. Vestibulum et leo diam. Ut at sem massa. Duis ac commodo arcu, nec condimentum neque. Donec et vehicula arcu, ut sodales magna. Donec velit quam, ultricies vitae ipsum ac, fermentum venenatis nisl. Cras tristique arcu sapien, vitae condimentum velit imperdiet eu.
