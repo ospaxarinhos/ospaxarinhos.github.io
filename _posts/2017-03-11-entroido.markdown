@@ -6,7 +6,7 @@ categories: actividade
 author: Alba García.
 ---
 
-![hero]({{ site.baseurl }}/assets/Blog/2017/2/Carnaval.jpeg){:class="img-responsive post_image"}
+![hero]({{ site.baseurl }}/assets/Blog/2017/3/2017-03-11.jpg){:class="img-responsive post_image"}
 <br>
 
 bkiupñ´koñi'´pl-loi8tutedfwqd
