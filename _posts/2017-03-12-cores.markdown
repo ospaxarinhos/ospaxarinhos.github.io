@@ -9,4 +9,4 @@ author: Alba García.
 ![hero]({{ site.baseurl }}/assets/Blog/2017/3/2017-03-12.jpg){:class="img-responsive post_image"}
 <br>
 
-cor roxa
+cor roxa roxa
