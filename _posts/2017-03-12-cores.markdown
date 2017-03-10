@@ -1,12 +1,12 @@
 ﻿---
 layout: post
-title:  "entroido"
-date:   2017-03-11 03:50:12 +0200
+title:  "cores"
+date:   2017-03-12 03:50:12 +0200
 categories: actividade
 author: Alba García.
 ---
 
-![hero]({{ site.baseurl }}/assets/Blog/2017/3/2017-03-11.jpg){:class="img-responsive post_image"}
+![hero]({{ site.baseurl }}/assets/Blog/2017/3/2017-03-12.jpg){:class="img-responsive post_image"}
 <br>
 
-bkiupñ´koñi'´pl-loi8tutedfwqd
+cor roxa
