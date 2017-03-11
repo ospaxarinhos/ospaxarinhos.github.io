@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Outono"
-date:   2016-12-20 03:50:12 +0200
+title:  "Cores"
+date:   2017-01-19 03:50:12 +0200
 categories: actividade
 author: Alba García.
 ---
-![hero]({{ site.baseurl }}/assets/Blog/2016/12/2016-12-20.jpg){:class="img-responsive post_image"}
+![hero]({{ site.baseurl }}/assets/Blog/2017/01/2017-01-19.jpg){:class="img-responsive post_image"}
 <br>
-A natureza é importante para o desenrolo do neno, mellora a capacidade de atención, a creatividade, aprenden a respetala.
-Esta actividade permitelle o neno a manipulación de diferentes obxetos da natureza no que sinte unha curiosidade e un interés innatos a vez que  desenrola o sentido do tacto xa que cada elemento ten unha textura diferente.
+Mediante todos os sentidos percibe, recibe e comprende o mundo que lle rodea. 
+Esta actividade invita o neno a tomarse o tempo necesario para observar as cores. Neste caso eliximos a cor roxa. Os  cativos buscarán por toda a aula obxectos desa cor que introducirán na caixa, desarrollando a motricidade fina e grosa e o sentido da vista.
+É unha boa forma de impregnarse de dita cor a vez que se divirte.
 
-Unha pequena actividade donde o cativo descubre unha de moitas riquezas da natureza.
 
 
 
