@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "outono"
+date:   2016-12-20 03:50:12 +0200
+categories: actividade
+author: Alba García.
+---
+A natureza é importante para o desenrolo do neno, mellora a capacidade de atención, a creatividade, aprenden a respetala.
+Esta actividade permitelle o neno a manipulación de diferentes obxetos da natureza no que sinte unha curiosidade e un interés innatos a vez que  desenrola o sentido do tacto xa que cada elemento ten unha textura diferente.
+ 
+Unha pequena actividade donde o cativo descubre unha de moitas riquezas da natureza.
+
+
+![hero]({{ site.baseurl }}/assets/Blog/2016/12/2016-12-20.jpeg){:class="img-responsive post_image"}
+<br>
+
