@@ -11,6 +11,6 @@ Esta actividade permitelle o neno a manipulación de diferentes obxetos da natur
 Unha pequena actividade donde o cativo descubre unha de moitas riquezas da natureza.
 
 
-![hero]({{ site.baseurl }}/assets/Blog/2016/12/2016-12-20.jpeg){:class="img-responsive post_image"}
+![hero]({{ site.baseurl }}/assets/Blog/2016/12/2016-12-20.jpg){:class="img-responsive post_image"}
 <br>
 
