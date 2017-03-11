@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Entroido"
+date:   2017-02-24 03:50:12 +0200
+categories: actividade
+author: Alba García.
+---
+![hero]({{ site.baseurl }}/assets/Blog/2017/02/2017-02-24.jpg){:class="img-responsive post_image"}
+<br>
+Gran festa do entroido na casa niño Os Paxariños. 
+
+Os cativos divirtense  xogando, bailando, e poñendo os seus disfraces que fixeron coa axuda da educadora.
+
+
+
+
+
