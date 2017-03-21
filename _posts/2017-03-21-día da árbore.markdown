@@ -9,8 +9,10 @@ author: Alba García.
 <br>
 
 O Día da Árbore ou Festa da Árbore é un recordatorio da importancia de protexer as superficies arboladas. As árbores, entre outros moitos beneficios, transforman o dióxido de carbono, responsable do efecto envernadoiro, en biomasa, minimizan os riscos de inundacións, evitan a erosión...
+
 Os nosos paxariños disfrutaron con esta actividade, aprendendo xa dende moi cativos a importancia de protexer e manter o medio natural que nos rodea.
 A natureza ofrecelles unha cantidade enorme de estímulos: dela aprenden, xogan, distráense, relázanse e disfrutan. Por todo iso, é especialmente importante que comprendan a relevancia que ten a natureza nas súas vidas.
+
 Como dixo María Montessori:
 >"Ningunha descripción, ningunha ilustración de calquera libro pode sustituir á comtemplación das árbores reais e de toda a vida que os rodea nun bosque real"
 <br>
