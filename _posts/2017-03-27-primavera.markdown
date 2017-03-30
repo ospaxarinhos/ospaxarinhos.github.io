@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Primaveira"
+title:  "Primavera"
 date:   2017-03-27 03:50:12 +0200
 categories: actividade
 author: Alba García.
