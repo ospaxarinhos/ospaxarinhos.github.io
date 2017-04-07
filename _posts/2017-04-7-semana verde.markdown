@@ -16,7 +16,7 @@ Os nenos/as mostraron un gran interés para esta actividade buscando os obxectos
 Tamén se realizaron outras actividades onde deixaron voar a imaxinación xogando e pintando co obxectivo de que se familiaricen e reconozcan a cor verde, ademais de traballar o sentido do tacto, olfacto, vista.
 
 Unha gran experiencia onde aprenderon divertindose!
-
+<br>
 
 ![hero]({{ site.baseurl }}/assets/Blog/2017/04/2017-04-8.jpg){:class="img-responsive post_image"}
 <br>
