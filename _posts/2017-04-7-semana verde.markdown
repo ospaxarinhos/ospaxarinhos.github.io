@@ -11,9 +11,9 @@ author: Alba García.
 Durante esta semana os cativos dos Paxariños aprenden a cor verde.
 
 Os pais xogan un papel moi importante tanto na casa como na escola para o desenrolo do neno/a, por eso, coa súa colaboración os paxariños realizaron este orixinal mural onde se mostra diferentes obxectos da vida cotiá.
-Os nenos/as mostraron un gran interés para esta actividade buscando os obxectos. 
+Os cativos mostraron un gran interés por esta actividade buscando os obxectos. 
 
-Tamén se realizaron outras actividades onde deixaron voar a imaxinación xogando e pintando co obxectivo de que se familiaricen e reconozcan a cor verde, ademais de traballar o sentido do tacto, olfacto, vista.
+Tamén se realizaron outras actividades onde deixaron voar a imaxinación xogando e pintando co obxectivo de que se familiariraran e reconoceran a cor verde, ademais de traballar os sentidos do tacto, olfacto, vista.
 
 Unha gran experiencia onde aprenderon divertindose!
 <br>
