@@ -17,6 +17,7 @@ Tamén se realizaron outras actividades onde deixaron voar a imaxinación xogand
 
 Unha gran experiencia onde aprenderon divertindose!
 
+
 ![hero]({{ site.baseurl }}/assets/Blog/2017/04/2017-04-8.jpg){:class="img-responsive post_image"}
 <br>
 
