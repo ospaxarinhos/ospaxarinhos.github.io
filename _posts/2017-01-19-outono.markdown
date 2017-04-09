@@ -1,10 +1,12 @@
 ---
+title: Cores
+date: 2017-01-19 01:50:12 Z
+categories:
+- actividade
 layout: post
-title:  "Cores"
-date:   2017-01-19 03:50:12 +0200
-categories: actividade
 author: Alba García.
 ---
+
 ![hero]({{ site.baseurl }}/assets/Blog/2017/01/2017-01-19.jpg){:class="img-responsive post_image"}
 <br>
 Mediante todos os sentidos percibe, recibe e comprende o mundo que lle rodea. 

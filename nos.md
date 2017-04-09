@@ -1,9 +1,7 @@
 ---
+permalink: "/nos"
 layout: page
-permalink: /nos
 ---
-
-
 
 <p>
    "Os Paxariños" é unha casa niño que nace baixo o plan de Casas niño da Xunta de Galicia. Atópase situada na

@@ -1,10 +1,12 @@
 ---
+title: Pequenos Pintores
+date: 2017-03-30 01:50:12 Z
+categories:
+- actividade
 layout: post
-title:  "Pequenos Pintores"
-date:   2017-03-30 03:50:12 +0200
-categories: actividade
 author: Alba García.
 ---
+
 ![hero]({{ site.baseurl }}/assets/Blog/2017/03/2017-03-30.jpg){:class="img-responsive post_image"}
 <br>
 

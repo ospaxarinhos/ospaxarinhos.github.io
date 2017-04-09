@@ -1,10 +1,12 @@
 ---
+title: Xornada de Portas Abertas
+date: 2017-04-02 01:50:12 Z
+categories:
+- actividade
 layout: post
-title:  "Xornada de Portas Abertas"
-date:   2017-04-2 03:50:12 +0200
-categories: actividade
 author: Alba García.
 ---
+
 ![hero]({{ site.baseurl }}/assets/Blog/2017/04/2017-04-2.jpg){:class="img-responsive post_image"}
 <br>
 

@@ -1,10 +1,12 @@
 ---
+title: Primavera
+date: 2017-03-27 01:50:12 Z
+categories:
+- actividade
 layout: post
-title:  "Primavera"
-date:   2017-03-27 03:50:12 +0200
-categories: actividade
 author: Alba García.
 ---
+
 ![hero]({{ site.baseurl }}/assets/Blog/2017/03/2017-03-27.jpg){:class="img-responsive post_image"}
 <br>
 
