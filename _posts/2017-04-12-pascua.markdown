@@ -1,0 +1,25 @@
+---
+title: Pascua
+date: 2017-04-12 01:50:12 Z
+categories:
+- actividade
+layout: post
+author: Alba García.
+---
+
+![hero]({{ site.baseurl }}/assets/Blog/2017/04/2017-04-13.jpg){:class="img-responsive post_image"}
+![hero]({{ site.baseurl }}/assets/Blog/2017/04/2017-04-14.jpg){:class="img-responsive post_image"}
+![hero]({{ site.baseurl }}/assets/Blog/2017/04/2017-04-15.jpg){:class="img-responsive post_image"}
+![hero]({{ site.baseurl }}/assets/Blog/2017/04/2017-04-16.jpg){:class="img-responsive post_image"}
+![hero]({{ site.baseurl }}/assets/Blog/2017/04/2017-04-17.jpg){:class="img-responsive post_image"}
+<br>
+
+Celebramos a Pascua nos Paxariños faendo galletas e buscando por toda a aula ovos de chocolate.
+
+Cociñar co neno/a é un momento agradable no que compartimos e trasmitimos coñecementos. O neno/a participa e aprende a utilizar certo número de utensilios. Exerce a súa motricidade e descubre texturas e olores novos.
+
+Esta actividade foi para os paxariños moi interesante e divertida.
+
+
+
+
