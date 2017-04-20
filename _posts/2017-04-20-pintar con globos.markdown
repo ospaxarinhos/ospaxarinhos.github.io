@@ -10,5 +10,5 @@ author: Alba García.
 ![hero]({{ site.baseurl }}/assets/Blog/2017/04/2017-04-20.jpg){:class="img-responsive post_image"}
 <br>
 A pintura é unha das actividades que lles encanta os nenos/as, e que mellor forma de experimentar pintando con globos.
-Ademáis da manipulación e a textura dos globos coa pintura, os paxariños divertironse un montón.
+Ademáis da manipulación e a textura dos globos coa pintura, os paxariños divertironse un montón .
 
