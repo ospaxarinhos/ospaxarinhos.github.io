@@ -1,0 +1,18 @@
+---
+title: Collage
+date: 2017-05-2 01:50:12 Z
+categories:
+- actividade
+layout: post
+author: Alba García.
+---
+
+![hero]({{ site.baseurl }}/assets/Blog/2017/05/2017-05-2.jpg){:class="img-responsive post_image"}
+<br>
+
+Os paxariños divertironse pegando papeliños e descubrindo como pega a cola no papel.
+Esta actividade exerce a motricidade fina e estimula a creatividade sempre que non interveñamos.
+
+Para Montessori a intervención do traballo é sempre un obtáculo que interrumpe a impulsión interior da expresión.
+
+
