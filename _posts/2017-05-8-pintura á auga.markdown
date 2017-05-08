@@ -11,7 +11,7 @@ author: Alba García.
 <br>
 
 Os nenos/as dos Paxariños pintan con auga sobre todas as superficies que encontran.
-Esta actividade tendrá o neno/a ocupado durante un largo rato, axudará os cativos a observar os diferentes materiais, as texturas e o que pasa cando se mollan. Si fai calor, podrá observar cómo desaparecen as marcas da auga o secarse.
+Esta actividade tendrá o neno/a ocupado durante un longo rato, axudará os cativos a observar os diferentes materiais, as texturas e o que pasa cando se mollan. Si fai calor, podrá observar cómo desaparecen as marcas da auga o secarse.
 
 É unha experiencia interesante que invita a observación.
 
