@@ -1,0 +1,16 @@
+---
+title: Que é esto?...Xelatina!
+date: 2017-05-11 01:50:12 Z
+categories:
+- actividade
+layout: post
+author: Alba García.
+---
+
+![hero]({{ site.baseurl }}/assets/Blog/2017/05/2017-05-11.jpg){:class="img-responsive post_image"}
+<br>
+
+Na casa Niño os Paxariños queremos compartir unha actividade de manipulación e experimentación.
+Os cativos pasaronno en grande coa xelatina. Con esta actividade desenrolan principalmente o tacto. Cando os paxariños a tocaron estaba fría e blanda, pero resultou ser viscosa e sabrosa! desenrolando así o sentido do gusto, ademais da vista xa que o roxo é unha das cores primarias.
+
+
