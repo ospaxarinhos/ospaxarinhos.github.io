@@ -7,7 +7,7 @@ layout: post
 author: Alba García.
 ---
 
-![hero]({{ site.baseurl }}/assets/Blog/2017/05/2017-05-1.jpg){:class="img-responsive post_image"}
+![hero]({{ site.baseurl }}/assets/Blog/2017/05/2017-05-18.jpg){:class="img-responsive post_image"}
 <br>
 
 
