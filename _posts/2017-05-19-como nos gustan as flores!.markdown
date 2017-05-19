@@ -1,5 +1,5 @@
 ---
-title: Como nos gustan a Primavera!
+title: Como nos gusta a Primavera!
 date: 2017-05-19 01:50:12 Z
 categories:
 - actividade
