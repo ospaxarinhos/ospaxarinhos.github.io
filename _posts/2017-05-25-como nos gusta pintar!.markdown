@@ -7,7 +7,7 @@ layout: post
 author: Alba García.
 ---
 
-![hero]({{ site.baseurl }}/assets/Blog/2017/05/2017-05-25.jpg){:class="img-responsive post_image"}
+![hero]({{ site.baseurl }}/assets/Blog/2017/05/2017-05-255.jpg){:class="img-responsive post_image"}
 <br>
 
 Os nosos nenos/as dos Paxariños adoran pintar.
