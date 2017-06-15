@@ -10,4 +10,4 @@ author: Alba García.
 ![hero]({{ site.baseurl }}/assets/Blog/2017/06/2017-06-15.jpg){:class="img-responsive post_image"}
 <br>
 
-Experimentamos pintando con garfos. Unha actividade moi divertida na que os cativos dos Paxariños disfrutan coa pintura.
+Experimentamos pintando con garfos. Unha actividade moi divertida na que os cativos dos Paxariños disfrutan coa pintura e na que acabaron pintando coas mans. 
