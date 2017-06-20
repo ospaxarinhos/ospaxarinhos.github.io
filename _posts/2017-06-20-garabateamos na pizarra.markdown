@@ -11,6 +11,6 @@ author: Alba García.
 <br>
 
 Unha das cousas que realizamos na casa niño Os Paxariños e que as actividades que se fan teñan un "porqué".
-Neste caso os cativos pintan na pizarra co fin de que toquen novas texturas como o xiz. O pintar non solo observan as distintas cores senon que tamén desenrolan a creatividade e a motricidade finao borrar co borrador.
+Neste caso os cativos pintan na pizarra co fin de que toquen novas texturas como o xiz. O pintar non solo observan as distintas cores senon que tamén desenrolan a creatividade e a motricidade fina o borrar co borrador.
 
 Con esta actividade observan que ai outras maneiras de pintar.
