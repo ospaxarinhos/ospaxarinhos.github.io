@@ -1,0 +1,16 @@
+---
+title: Verán
+date: 2017-06-21 01:50:16 Z
+categories:
+- actividade
+layout: post
+author: Alba García.
+---
+
+![hero]({{ site.baseurl }}/assets/Blog/2017/06/2017-06-21.jpg){:class="img-responsive post_image"}
+<br>
+
+Hoxe comeza o verán, e como non, na casa niño Os Paxariños os peques gozaron chapuceando na auga.
+
+Unha actividade moi divertida e refrescante para combatir esta calor.
+
