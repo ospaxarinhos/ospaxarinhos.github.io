@@ -10,4 +10,4 @@ author: Alba García.
 ![hero]({{ site.baseurl }}/assets/Blog/2017/06/2017-06-29.jpg){:class="img-responsive post_image"}
 <br>
 
-Nos Paxariños aprendemos como se forma a pintura con auga pintando co acuarelas, unha actividade na que estiveron entretidos un longo tempo descubrindo e experimentando as cores.
+Nos Paxariños aprendemos como se forma a pintura con auga pintando con acuarelas, unha actividade na que estiveron entretidos un longo tempo descubrindo e experimentando as cores.
