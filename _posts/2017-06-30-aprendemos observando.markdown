@@ -1,5 +1,5 @@
 ---
-title: Aprendemos OBservando
+title: Aprendemos Observando
 date: 2017-06-30 01:50:16 Z
 categories:
 - actividade
