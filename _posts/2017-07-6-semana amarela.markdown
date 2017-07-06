@@ -20,7 +20,7 @@ Buscar obxectos
 
 
 
-Expresar a súa algria mediante esta cor tan chamativa
+Expresar a súa alegría mediante esta cor tan chamativa
 ![hero]({{ site.baseurl }}/assets/Blog/2017/07/2017-07-5.jpg){:class="img-responsive post_image"}
 <br>
 
