@@ -1,0 +1,18 @@
+---
+title: Xeo!!
+date: 2017-07-11 01:50:16 Z
+categories:
+- actividade
+layout: post
+author: Alba García.
+---
+
+![hero]({{ site.baseurl }}/assets/Blog/2017/07/2017-07-11.jpg){:class="img-responsive post_image"}
+<br>
+
+![hero]({{ site.baseurl }}/assets/Blog/2017/07/2017-07-111.jpg){:class="img-responsive post_image"}
+<br>
+
+Hoxe os cativos dos Paxariños dicerentironse un montón aprendendo a faer xeo. Esta actividade permítelle tocar novas texturas, aprenden que o xeo resbala e que está muy frío!!! ademáis de que coa calor vólvese auga.
+
+Deixar que os nenos/as experimenten, toquen, proben, é moi enrriquecedor.
