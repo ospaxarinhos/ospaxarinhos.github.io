@@ -1,5 +1,5 @@
 ---
-title: Chocolaterapai
+title: Chocolaterapia
 date: 2017-07-14 01:50:16 Z
 categories:
 - actividade
