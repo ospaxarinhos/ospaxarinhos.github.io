@@ -1,0 +1,14 @@
+---
+title: Arte
+date: 2017-07-19 01:50:16 Z
+categories:
+- actividade
+layout: post
+author: Alba García.
+---
+
+![hero]({{ site.baseurl }}/assets/Blog/2017/07/2017-07-19.jpg){:class="img-responsive post_image"}
+<br>
+
+Os paxariños repasan as cores primarias (amarela, verde, azul e roxa) pintando sobre papel e mezclando ditas cores según o seu antollo. Esta actividade ademais de diferenciar as cores primarias fai que descubran outras cores o mezclalas.
+Unha actividade onde experimentan, crean, xogan, aprenden e sobre todo divírtense.
