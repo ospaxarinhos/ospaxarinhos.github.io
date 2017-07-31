@@ -15,7 +15,7 @@ author: Alba García.
 A casa niño OS PAXARIÑOS celebrou hoxe a festa de fin de curso onde os cativos gozaron con pompas de xabon.
 
 Despois de varios meses este proxecto tan bonito remata o curso 2016-2017 cheo de emocións. Foi un ano de moitos colos, choros, abrazos, mimos, sorpresas e moitas risas.
-Os protagonistas deste proxecto recibiron moito cariño e atención, algúns chegaron gateando e marchan camiñando, outros xa saben ir o baño solos...
+Os protagonistas deste proxecto recibiron moito cariño e atención, algúns chegaron gateando e marchan camiñando, outros xa saben ir o baño sos...
 
 Gracias por ser parte dos Paxariños. 
 
