@@ -1,5 +1,5 @@
 ---
-title: Período de Adapatación
+title: Período de Adaptación
 date: 2017-09-6 01:50:16 Z
 categories:
 - actividade
