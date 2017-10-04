@@ -10,4 +10,4 @@ author: Alba García.
 ![hero]({{ site.baseurl }}/assets/Blog/2017/10/2017-10-4.jpg){:class="img-responsive post_image"}
 <br>
 
-como nos gusta a cor roxa na casa niño Os Paxariños, os nenos/as identifican e aprenden obxectos reais ademais de disfrutar das imaxes que ofrecen os nosos libros. Unha maneira de que os cativos tamen desenrolen a atención e a memoria.
+Como nos gusta a cor roxa na casa niño Os Paxariños, os nenos/as identifican e aprenden obxectos reais ademais de disfrutar das imaxes que ofrecen os nosos libros. Unha maneira de que os cativos tamen desenrolen a atención e a memoria.
