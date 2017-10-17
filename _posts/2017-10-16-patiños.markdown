@@ -1,0 +1,13 @@
+---
+title: Patiños
+date: 2017-10-16 01:50:16 Z
+categories:
+- actividade
+layout: post
+author: Alba García.
+---
+
+![hero]({{ site.baseurl }}/assets/Blog/2017/10/2017-10-16.jpg){:class="img-responsive post_image"}
+<br>
+
+A auga sempre triunfa nos Paxariños, un elemento que deixa os cativos entretidos un bo longo tempo. Xogamos con patiños, xa que , o principal obxectivo desta actividade e a concentración. Os nenos/as teñen que pescar os patiños con cucharons grandes e non deixar que escapen, ademais disto tamén desenrolan a coordinación ollo-mao, e o sentido do tacto ¡ que fía está a auga!
