@@ -1,0 +1,17 @@
+---
+title: Samaín
+date: 2017-10-27 01:50:16 Z
+categories:
+- actividade
+layout: post
+author: Alba García.
+---
+
+![hero]({{ site.baseurl }}/assets/Blog/2017/10/2017-10-27.jpg){:class="img-responsive post_image"}
+<br>
+
+Na casa niño os Paxariños celebramos o samaín con antifaces, música e moitas actividades divertidas sempre co fin de aprender cousas novas.
+
+
+![hero]({{ site.baseurl }}/assets/Blog/2017/10/2017-10-277.jpg){:class="img-responsive post_image"}
+<br>
