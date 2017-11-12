@@ -10,7 +10,7 @@ author: Alba García.
 ![hero]({{ site.baseurl }}/assets/Blog/2017/11/2017-11-10.jpg){:class="img-responsive post_image"}
 <br>
 
-Celebramos o magosto na casa niño Os Paxariños, unha festa an especial e tan propia da nosa terra nesta época do ano. 
+Celebramos o magosto na casa niño Os Paxariños, unha festa tan especial e tan propia da nosa terra nesta época do ano. 
 Os nenos/as aprenden e comparten este manxar tan típico como é a castaña. 
 
 ![hero]({{ site.baseurl }}/assets/Blog/2017/11/2017-11-100.jpg){:class="img-responsive post_image"}
