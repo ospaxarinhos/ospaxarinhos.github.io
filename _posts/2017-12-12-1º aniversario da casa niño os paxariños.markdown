@@ -18,7 +18,7 @@ Pasaronno xenial faendo as formas, experimentado e aprendendo coa masa.
 ![hero]({{ site.baseurl }}/assets/Blog/2017/12/2017-12-122.jpg){:class="img-responsive post_image"}
 <br>
 
-![hero]({{ site.baseurl }}/assets/Blog/2017/12/2017-12-1222.jpg){:class="img-responsive post_image"}
+![hero]({{ site.baseurl }}/assets/Blog/2017/12/2017-12-120.jpg){:class="img-responsive post_image"}
 <br>
 
 ![hero]({{ site.baseurl }}/assets/Blog/2017/12/2017-12-12222.jpg){:class="img-responsive post_image"}
