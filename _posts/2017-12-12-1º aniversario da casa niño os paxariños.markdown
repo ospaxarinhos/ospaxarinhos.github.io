@@ -12,6 +12,7 @@ author: Alba García.
 
 A casa niño OS PAXARIÑOS celebrou o seu primeiro aniversario. Para elo, os cativos coa axuda da educadora cociñaron unhas ríquisimas galletas. Esta actividade permítelle desenrolar o sentido do tacto, gusto, olfacto e vista.
 
+
 Pasaronno xenial faendo as formas, experimentado e aprendendo coa masa.
 
 ![hero]({{ site.baseurl }}/assets/Blog/2017/12/2017-12-122.jpg){:class="img-responsive post_image"}
