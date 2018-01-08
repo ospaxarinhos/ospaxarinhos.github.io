@@ -18,8 +18,10 @@ Os pequenos pasáronno en grande desfaendo e tirando o papel o aire.
 ![hero]({{ site.baseurl }}/assets/Blog/2018/01/2018-01-88.jpg){:class="img-responsive post_image"}
 <br>
 
+
 ![hero]({{ site.baseurl }}/assets/Blog/2018/01/2018-01-888.jpg){:class="img-responsive post_image"}
 <br>
+
 
 ![hero]({{ site.baseurl }}/assets/Blog/2018/01/2018-01-8888.jpg){:class="img-responsive post_image"}
 <br>
