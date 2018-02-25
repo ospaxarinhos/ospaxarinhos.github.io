@@ -13,7 +13,7 @@ author: Alba García.
 
 As caixas de cartón poden convertirse nun xoguete fabuloso para o neno. Os pequenos dos Paxariños divertíronse un montón con esta actividade donde deixaron voar a súa imaxinación.
 
-Imaxinaron casiñas, berces para as bonecas, un auténtico tren, agochabanse...
+Imaxinaron casiñas, berces para as bonecas, un auténtico tren...
 
 
 ![hero]({{ site.baseurl }}/assets/Blog/2018/02/2018-02-233.jpg){:class="img-responsive post_image"}
