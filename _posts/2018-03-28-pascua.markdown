@@ -1,0 +1,17 @@
+---
+title: Pascua
+date: 2018-03-28 01:50:16 Z
+categories:
+- actividade
+layout: post
+author: Alba García.
+---
+
+![hero]({{ site.baseurl }}/assets/Blog/2018/03/2018-03-28.jpg){:class="img-responsive post_image"}
+<br>
+
+Na casa niño os Paxariños tamén celebramos o día de pascua.
+
+Os cativos buscaron por toda a aula os ovos de chocolate.
+
+Cantas sorpresas e risas o atopar o ovo!!
