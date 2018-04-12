@@ -15,3 +15,7 @@ Chegou a primavera os Paxariños!!
 Os cativos realizaron una actividade moi sinxela e moi orixinal coa axuda da educadora, para elo, utilizaron pasta de cores.
 
 Bolboretas de cores!!!
+
+
+![hero]({{ site.baseurl }}/assets/Blog/2018/04/2018-04-122.jpg){:class="img-responsive post_image"}
+<br>
