@@ -1,0 +1,19 @@
+---
+title: Amorodos
+date: 2018-05-30 01:50:16 Z
+categories:
+- actividade
+layout: post
+author: Alba García.
+---
+
+![hero]({{ site.baseurl }}/assets/Blog/2018/05/2018-05-30.jpg){:class="img-responsive post_image"}
+<br>
+
+Vaia día pasaron os cativos dos Paxariños tocando e degustando os amorodos. Unha froita moi rica e dunha cor moi vistosa. Foi un día de experimentación para os nenos/as.
+
+![hero]({{ site.baseurl }}/assets/Blog/2018/05/2018-05-300.jpg){:class="img-responsive post_image"}
+<br>
+
+![hero]({{ site.baseurl }}/assets/Blog/2018/05/2018-05-3000.jpg){:class="img-responsive post_image"}
+<br>
