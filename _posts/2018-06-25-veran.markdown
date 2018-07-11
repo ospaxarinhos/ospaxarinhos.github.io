@@ -1,0 +1,15 @@
+---
+title: Verán
+date: 2018-06-25 01:50:16 Z
+categories:
+- actividade
+layout: post
+author: Alba García.
+---
+
+![hero]({{ site.baseurl }}/assets/Blog/2018/06/2018-06-25.jpg){:class="img-responsive post_image"}
+<br>
+
+Para combatir esta calor que mellor que un bo chapuzón!
+
+Comeza o verán e os nenos e nenas dos Paxariños divirtense xogando con auga e patiños. Os cativos encantalles a auga e aproveitamos este elememto da natureza xa que lle permite relaxarse e a vez desenrolar a concentración.
