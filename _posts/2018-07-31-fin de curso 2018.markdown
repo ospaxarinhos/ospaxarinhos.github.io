@@ -1,0 +1,31 @@
+---
+title: Fin de Curso 2018
+date: 2018-07-31 01:50:16 Z
+categories:
+- actividade
+layout: post
+author: Alba García.
+---
+
+![hero]({{ site.baseurl }}/assets/Blog/2018/07/2018-07-31.jpg){:class="img-responsive post_image"}
+<br>
+
+Xa pasaron casi dous anos desde que este proxecto se puxo en marcha. Desde que os primeiros nenos entraron po esa porta con seus llantos e os seus medos, cas suas miradas ilusionadas por descubrir algo novo, coas suas travesuras e inquietudes.
+
+Acompañeivos un trociño das vosas vidas e espero que este pequeno paseo fora tan bo para vos como para min.
+
+E o momento de decir un ADEUS e un HASTA PRONTO!!
+
+Gracias as familias unha vez máis por a confianza, e sobre todo gracias a vos pequenos por todos eses momentos que me regalastes, por os vosos xogos, as vosas cancións, e o máis bonito a vosa SONRRISA! Unha cousa vos pido: NUNCA A PERDADES!!
+
+![hero]({{ site.baseurl }}/assets/Blog/2018/07/2018-07-311.jpg){:class="img-responsive post_image"}
+<br>
+
+![hero]({{ site.baseurl }}/assets/Blog/2018/07/2018-07-3111.jpg){:class="img-responsive post_image"}
+<br>
+
+![hero]({{ site.baseurl }}/assets/Blog/2018/07/2018-07-31111.jpg){:class="img-responsive post_image"}
+<br>
+
+![hero]({{ site.baseurl }}/assets/Blog/2018/07/2018-07-311111.jpg){:class="img-responsive post_image"}
+<br>
