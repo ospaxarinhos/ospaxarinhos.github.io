@@ -1,0 +1,13 @@
+---
+title: Sabores
+date: 2018-09-19 01:50:16 Z
+categories:
+- actividade
+layout: post
+author: Alba García.
+---
+
+![hero]({{ site.baseurl }}/assets/Blog/2018/09/2018-09-19.jpg){:class="img-responsive post_image"}
+<br>
+
+Nos Paxariños gústanos traballar con materiais reais. Nesta actividade pretendemos que os cativos se sigan familiarizando coa cor vermella, na cal tamén experimentan, tocan e proban sabores.
