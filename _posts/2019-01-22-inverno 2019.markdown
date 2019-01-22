@@ -1,0 +1,15 @@
+---
+title: Inverno 2019
+date: 2018-01-22 01:50:16 Z
+categories:
+- actividade
+layout: post
+author: Alba García.
+---
+
+
+![hero]({{ site.baseurl }}/assets/Blog/2019/01/2019-01-22.jpg){:class="img-responsive post_image"}
+<br>
+
+
+Como nos divertimos na casa niño os Paxariños experimentando e desenrolando sobre todo a motricidade fina e grosa así como a imaxinación.
