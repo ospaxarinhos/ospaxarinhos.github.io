@@ -1,0 +1,19 @@
+---
+title: Día da Paz
+date: 2019-01-30 01:50:16 Z
+categories:
+- actividade
+layout: post
+author: Alba García.
+---
+
+
+![hero]({{ site.baseurl }}/assets/Blog/2019/01/2019-01-30.jpg){:class="img-responsive post_image"}
+<br>
+
+
+Os nenos e nenas dos paxariños celebran o día escolar da non violencia e a paz.
+
+
+![hero]({{ site.baseurl }}/assets/Blog/2019/01/2019-01-300.jpg){:class="img-responsive post_image"}
+<br>
