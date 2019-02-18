@@ -1,0 +1,21 @@
+---
+title: San Vlentín 2019
+date: 2019-02-14 01:50:16 Z
+categories:
+- actividade
+layout: post
+author: Alba García.
+---
+
+
+Celebramos o día dos namorados con moitos besos e abrazos, e preparamos unhas ricas galletas para mamá e papá. Con esta actividade os nenos e nenas desenvolven o sentido do tacto, do gusto e da vista ademais de experimentar coa masa.
+
+![hero]({{ site.baseurl }}/assets/Blog/2019/02/2019-02-14.jpg){:class="img-responsive post_image"}
+<br>
+
+![hero]({{ site.baseurl }}/assets/Blog/2019/02/2019-02-144.jpg){:class="img-responsive post_image"}
+<br>
+
+![hero]({{ site.baseurl }}/assets/Blog/2019/02/2019-02-1444.jpg){:class="img-responsive post_image"}
+<br>
+
