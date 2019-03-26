@@ -7,7 +7,7 @@ layout: post
 author: Alba García.
 ---
 
-![hero]({{ site.baseurl }}/assets/Blog/2019/03/2019-03-18.jpg){:class="img-responsive post_image"}
+![hero]({{ site.baseurl }}/assets/Blog/2018/03/2018-03-19.jpg){:class="img-responsive post_image"}
 <br>
 
 Na casa niño Os Paxariños xa temos listos os agasallos para papá!
