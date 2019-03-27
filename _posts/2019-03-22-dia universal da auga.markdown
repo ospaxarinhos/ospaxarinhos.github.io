@@ -1,6 +1,5 @@
 ---
-title: D
-Día universal da auga
+title: Día universal da auga
 date: 2019-03-22 01:50:16 Z
 categories:
 - actividade
