@@ -9,9 +9,9 @@ featured-img: posts_img/2019/04/4/2019-04-4.jpg
 ---
  <h5 class="center header text_h2">
 	
-Hoxe na casa niño Os paxariños tivemos un ruído inesperado.
+Os cativos dos Paxariños disfrutan un día coas bolas de cores. Tiran, collen, esconden as bolas. 
  <!--more-->
-  Os cativos dos Paxariños disfrutan un día coas bolas de cores. Tiran, collen, esconden as bolas. Con esta actividade desenrolamos a motricidade fina e grosa, e especialmente o sentido da vista por as cores das bolas.
+  Con esta actividade desenrolamos a motricidade fina e grosa, e especialmente o sentido da vista por as cores das bolas.
 Esta actividade de observación axudoulles os nenos/as a ver como funciona un dos transportes da vida cotiá. A máis pequena tamén mostra interés por as bolas.
 <div class="row">
      <div class="col s12 m6">
