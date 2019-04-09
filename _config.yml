@@ -8,17 +8,17 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: your-email@yourdomain.com
+email: ospaxarinhos@gmail.com
 copyright_name: Your/Project/Corporate Name
 description: Write your site description here. It will be used as your sites meta
   description as well!
 baseurl: ''
-url: https://byemege.github.io/
-nosurl: https://byemege.github.io/nos/
-blogurl: https://byemege.github.io/blog/
-caturl: https://byemege.github.io/categories
+url: https://ospaxarinhos.github.io/
+nosurl: https://ospaxarinhos.github.io/nos/
+blogurl: https://ospaxarinhos.github.io/blog/
+caturl: https://ospaxarinhos.github.io/categories
 blogimgurl: https://byemege.github.io/posts_img/
-blogdefaultimgurl: https://byemege.github.io/posts_img/default.jpg
+blogdefaultimgurl: https://ospaxarinhos.github.io/posts_img/default.jpg
 bio: Os Paxariños é unha casa niño que nace baixo o plan de Casas niño da Xunta de Galicia.
      Atópase situada na localidade de Prado de Miño , no concello ourensán de Castrelo de Miño ,
      enclave privilexiada polo seu entorno natural, rodeado de impresionantes viñas e con unhas
@@ -26,7 +26,7 @@ bio: Os Paxariños é unha casa niño que nace baixo o plan de Casas niño da Xu
 twitter_username: SBootstrap
 github_username: davidtmiller
 facebook_username: StartBootstrap
-email_username: your-email@yourdomain.com
+email_username: ospaxarinhos@gmail.com
 markdown: kramdown
 kramdown:
   input: GFM

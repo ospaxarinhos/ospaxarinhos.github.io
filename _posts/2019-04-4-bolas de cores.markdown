@@ -5,7 +5,7 @@ categories:
 - Actividade
 - Xogo
 layout: post
-featured-img: /posts_img/2019/04/4/2019-04-4.jpg
+featured-img: posts_img/2019/04/4/2019-04-4.jpg
 ---
  <h5 class="center header text_h2">
 	
