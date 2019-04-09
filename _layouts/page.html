@@ -1,16 +1,21 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="es">
 
-<article class="post card">
-<div class="card-content">
-  <header class="post-header">
-    <h1 class="post-title titulo">{{ page.title }}</h1>
-  </header>
+{% include head.html %}
+<body id="top" class="scrollspy">
 
-  <div class="post-content">
-    <br><br>
-    {{ content }}
-  </div>
-    </div>
-</article>
+
+{% include preloader.html %}
+
+{% include nav.html %}
+
+{% include slider_blog.html %}
+
+{{ content }}
+
+{% include footer.html %}
+
+
+</body>
+
+</html>

@@ -1,0 +1,9 @@
+/.idea/
+/_site/
+
+node_modules
+Gemfile.lock
+
+**dev.html
+
+_includes/**.dev.html

@@ -1,0 +1,21 @@
+<div class="section no-pad-bot valign-wrapper" id="index-banner" style="background-image: url('{{ site.baseurl }}/{% if page.featured-img %}{{ page.featured-img }}{% endif %}');background-attachment: fixed;background-size: cover;background-position: center;background-repeat: no-repeat;">
+    <div class="ar-filter">
+        <div class="container ">
+            <h1 class="text_h center header cd-headline letters type">
+                <span class="valign white-text">{{ page.title }}</span>
+            </h1>
+        </div>
+    </div>
+</div>
+
+<!--POST HEADER-->
+<header class="intro-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <br><br>
+                {% include post-single_heading.html %}
+            </div>
+        </div>
+    </div>
+</header>

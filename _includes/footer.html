@@ -1,10 +1,61 @@
-<footer class="site-footer">
+<footer id="contact" class="page-footer default_color scrollspy">
+    <div class="container">
+        <div class="row">
 
-  <div class="wrapper">
+            <div class="col l6 s12">
+                <h5 class="paxarinho">Sobre Nós</h5>
+                <p class="biog">
+                    {{site.bio}}
+                </p>
 
-<!--    <span class="footer-heading">{{ site.title }}</span>-->
 
+            </div>
+            <div class="col l3 s12">
+                <h5 class="paxarinho">Menú</h5>
+                <ul>
+                    <li><a  href="{{ site.url }}">Inicio</a></li>
+                    <li><a  href="{{ site.nosurl }}">Sobre Nós</a></li>
+                    <li><a  href="{{ site.blogurl }}">Blog</a></li>
+                    <li><a  href="{{ site.caturl }}">Categorías</a></li>
 
-  </div>
-
+                </ul>
+            </div>
+            <div class="col l3 s12">
+                <h5 class="paxarinho">Contacto</h5>
+                <ul>
+                    <li><a href="mailto:ospaxarinhos@gmail.com">Email</a></li>
+                    <li><a href="tel:+34671467937">Teléfono</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright default_color">
+        <div class="container">
+            Made by <a class="biog" href="#!">EmeGé</a>
+        </div>
+    </div>
 </footer>
+
+
+<!--  Scripts-->
+
+
+
+<script src="{{site.baseurl}}/assets/js/materialize.min.js"></script>
+<script src="{{site.baseurl}}/assets/js/modernizr.js"></script> <!-- Modernizr -->
+
+<script>
+    $(function() {
+        var selectedClass = "";
+        $(".fil-cat").click(function(){
+            selectedClass = $(this).attr("data-rel");
+            $("#filtr-container").fadeTo(100, 0.1);
+            $("#filtr-container div").not("."+selectedClass).fadeOut().removeClass('scale-anm');
+            setTimeout(function() {
+                $("."+selectedClass).fadeIn().addClass('scale-anm');
+                $("#filtr-container").fadeTo(300, 1);
+            }, 300);
+
+        });
+    });
+</script>

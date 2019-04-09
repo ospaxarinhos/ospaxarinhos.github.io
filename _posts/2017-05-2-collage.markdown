@@ -1,18 +1,20 @@
 ---
 title: Collage
-date: 2017-05-2 01:50:12 Z
+date: 2017-05-02
 categories:
-- actividade
+- Actividade
+- Xogo
 layout: post
-author: Alba García.
+featured-img: posts_img/2017/5/2/2017-05-2.jpg
 ---
 
-![hero]({{ site.baseurl }}/assets/Blog/2017/05/2017-05-2.jpg){:class="img-responsive post_image"}
-<br>
-
-Os paxariños divertironse pegando papeliños e descubrindo como pega a cola no papel.
-Esta actividade exerce a motricidade fina e estimula a creatividade sempre que non interveñamos.
-
-Para Montessori a intervención do traballo é sempre un obtáculo que interrumpe a impulsión interior da expresión.
-
-
+ <h5 class="center header text_h2">
+    Os paxariños divertironse pegando papeliños e descubrindo como pega a cola no papel.
+     <!--more-->
+    Esta actividade exerce a motricidade fina e estimula a creatividade sempre que non interveñamos.
+    Para Montessori a intervención do traballo é sempre un obtáculo que interrumpe a impulsión interior da expresión.
+ <div class="row">
+     <div class="col s12 m12">
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/2/4/2017-05-2.jpg">
+     </div>
+ </div>

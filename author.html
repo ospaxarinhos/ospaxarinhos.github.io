@@ -1,0 +1,15 @@
+---
+title: Authors
+permalink: "/authors/"
+layout: page
+---
+
+<ul>
+    {% for author in site.data.authors %}
+    <li>
+        <h3>
+            {{author.nick}} | {{author.name}}
+        </h3>
+    </li>
+    {% endfor %}
+</ul>

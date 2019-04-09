@@ -1,0 +1,12 @@
+<div class="center-btn">
+    {% if page.next.url %}
+    <a  class="btn-floating btn-large waves-effect waves-light tooltipped " data-position="left" data-delay="50" data-tooltip="Entrada seguinte" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}">
+        <i class="mdi-navigation-chevron-left"></i>
+    </a>
+    {% endif %}
+    {% if page.previous.url %}
+    <a style="margin-left: 25px" class="btn-floating btn-large waves-effect waves-light  tooltipped" data-position="right" data-delay="50" data-tooltip="Entrada anterior" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}">
+        <i class="mdi-navigation-chevron-right"></i>
+    </a>
+    {% endif %}
+</div>

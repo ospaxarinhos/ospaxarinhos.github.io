@@ -1,20 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
-      <div class="outer">
-        {% include header.html %}
+<body id="top" class="scrollspy">
 
-        <div class="page-content">
-          <div class="wrapper">
-            {{ content }}
-          </div>
-        </div>
 
-        {% include footer.html %}
-      </div>
-  </body>
-  
+    {% include preloader.html %}
+
+    {% include nav.html %}
+
+    {% include slider.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+
+
+</body>
+
 </html>

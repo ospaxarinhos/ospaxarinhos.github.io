@@ -1,0 +1,29 @@
+<div class="post-heading">
+    {% if page.author %}
+        <div class="chip">
+            {% assign author = site.data.authors[page.author] %}
+            <!--<img src="{{ author.email | gravatar }}" alt="Contact Person">-->
+            <img src="{{ author.gravatar }}" alt="Contact Person">
+            {% if page.author %}
+                {{ author.name }}
+            {% endif %}
+        </div>
+    {% endif %}
+    <h3 class="meta text_b paxarinho">{% assign m = page.date | date: "%-m" %}
+        {{ page.date | date: "%-d de" }}
+        {% case m %}
+        {% when '1' %}Xaneiro
+        {% when '2' %}Febreiro
+        {% when '3' %}Marzo
+        {% when '4' %}Abril
+        {% when '5' %}Maio
+        {% when '6' %}Xuño
+        {% when '7' %}Xullo
+        {% when '8' %}Agosto
+        {% when '9' %}Setembro
+        {% when '10' %}Octubro
+        {% when '11' %}Novembro
+        {% when '12' %}Decembro
+        {% endcase %}
+        {{ page.date | date: "de %Y" }}</h2></h3>
+</div>

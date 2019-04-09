@@ -1,0 +1,13 @@
+<h3 class="meta text_b paxarinho">Categorías</h3>
+{% if post %}
+{% assign categories = post.categories %}
+{% else %}
+{% assign categories = page.categories %}
+{% endif %}
+<div style="margin-top: 50px">
+    {% for category in categories %}
+    <div class="chip">
+        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+    </div>
+    {% endfor %}
+</div>

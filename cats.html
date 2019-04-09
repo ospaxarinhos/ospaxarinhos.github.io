@@ -1,0 +1,70 @@
+---
+title: Categories
+permalink: "/cats/"
+layout: page
+---
+
+
+
+
+
+<div class="container"style="margin-top: 50px">
+    {% assign sortedCategories = site.categories | sort %}
+    {% for category in sortedCategories %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div class="chip" data-rel="{{ category_name }}">
+        {{ category_name }}
+    </div>
+    {% endfor %}
+</div>
+
+
+
+    <div class="container">
+        <button class="btn fil-cat" href="" data-rel="Developer">All</button>
+        <div class="row">
+
+        <div id="filtr-container">
+
+
+
+            {% for post in site.posts %}
+                {% if post %}
+                {% assign categories = post.categories %}
+                {% else %}
+                {% assign categories = page.categories %}
+                {% endif %}
+                <div class="col s12 m10 offset-m1 l4 {% for category in categories %}&nbsp;{{category}}{% unless forloop.last %},{% endunless %}{% endfor %}">
+
+
+                <div class="card filtr-item ">
+                <div class="card-image waves-effect waves-block waves-light" style= "{%if post.featured-img %}background: url('{{site.url}}{{post.featured-img}}');background-size: cover;background-position: center;background-repeat: no-repeat;{% else %} background:#43cea2;background: -webkit-linear-gradient(to right, #185a9d, #43cea2);background: linear-gradient(to right, #185a9d, #43cea2);{% endif %}">
+                </div>
+                <div class="card-content">
+                    <span class="card-title activator grey-text text-darken-4">{{ post.title | truncate: 15}} <i class="mdi-navigation-more-vert right"></i></span>
+                    <p><a href="{{ post.url | prepend: site.baseurl }}">Read More</a></p>
+                </div>
+                <div class="card-reveal">
+                    <span class="card-title grey-text text-darken-4">{{ post.date | date: "%B %-d, %Y"}} <i class="mdi-navigation-close right"></i></span>
+
+                    <br>
+                    <h5 class="grey-text text-darken-4">{{ post.title }} </h5>
+                    <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html | truncate: 80 }}</p>
+                    <div class="post-categories">
+                        {% if post %}
+                        {% assign categories = post.categories %}
+                        {% else %}
+                        {% assign categories = page.categories %}
+                        {% endif %}
+                        {% for category in categories %}
+                        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+                        {% unless forloop.last %}|&nbsp;{% endunless %}
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+
+            </div>
+            {% endfor %}
+
+</div></div></div>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectTasksOptions">
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="-i $FilePath$ -o $FileNameWithoutExtension$.purge.scss -w" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="limpia codigo css de duplicados" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="scss" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="CSS-Purge" />
+      <option name="output" value="$FileNameWithoutExtension$.purge.scss" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="$USER_HOME$/AppData/Roaming/npm/css-purge.cmd" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--no-cache --update $FileName$:$FileNameWithoutExtension$.css --style compressed " />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="Compiles .scss files into .css files" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="scss" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="SCSS" />
+      <option name="output" value="$FileNameWithoutExtension$.css" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="C:/Ruby22-x64/bin/scss.bat" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="true" />
+      <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="$FileName$ -o $FileNameWithoutExtension$.min.js" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="Compresses .js files" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="js" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="YUI Compressor JS" />
+      <option name="output" value="$FileNameWithoutExtension$.min.js" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="C:/yuicompressor-2.4.8.jar" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="--type html $FilePath$  -o $ProjectFileDir$\$FileNameWithoutAllExtensions$.min.html" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="Comprime archivos .html" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="html" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="HTML Compressor" />
+      <option name="output" value="$ProjectFileDir$\$FileNameWithoutAllExtensions$.min.html" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="C:/htmlcompressor-1.5.3.jar" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="--preserve-php $FilePath$  -o $ProjectFileDir$\COMPRESS\$FileNameWithoutAllExtensions$.min.php" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="Comprime archivos .php" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="php" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="PHP Compressor" />
+      <option name="output" value="$ProjectFileDir$\COMPRESS\$FileNameWithoutAllExtensions$.min.php" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="C:/htmlcompressor-1.5.3.jar" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
+  </component>
+</project>

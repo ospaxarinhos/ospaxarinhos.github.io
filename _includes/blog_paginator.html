@@ -1,0 +1,50 @@
+{% if paginator.total_pages > 1 %}
+<ul class="pagination center-pag">
+    {% if paginator.previous_page %}
+    <li class="waves-effect">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+            <i class="mdi-navigation-chevron-left"></i>
+        </a>
+    </li>
+    {% else %}
+    <li class="disabled">
+        <a href="#!">
+            <i class="mdi-navigation-chevron-left"></i>
+        </a>
+
+    </li>
+    {% endif %}
+
+    {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+    <li class="active"><a href="#!">{{ page }}</a></li>
+    {% elsif page == 1 %}
+    <li >
+        <a href="{{ site.blogurl}}">
+            {{ page }}
+        </a>
+    </li>
+    {% else %}
+    <li class="waves-effect">
+        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">
+            {{ page }}
+        </a>
+    </li>
+    {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+    <li class="waves-effect">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+            <i class="mdi-navigation-chevron-right"></i>
+        </a>
+    </li>
+    {% else %}
+    <li class="disabled">
+        <a href="#!">
+            <i class="mdi-navigation-chevron-right"></i>
+        </a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}

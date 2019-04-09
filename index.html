@@ -1,65 +1,102 @@
 ---
+title: Casa Niño
 layout: default
+description: " - Os paxariños"
 ---
 
-<div class="home">
- <div class="top card">
-
-
-    <p class="description">{{ site.description }}</p>
-
-    <a href="nos" class="btn">Saber Máis</a>
-     <br>
-
-     <div class="row">
-         <div class="col-4">
-             <img class="u-max-full-width" src="/assets/www/feder.png" />
-         </div>
-         <div class="col-4">
-             <img class="u-max-full-width" src="/assets/www/xunta.png" />
-         </div>
-         <div class="col-4">
-             <img class="u-max-full-width" src="/assets/www/castrelo.png" />
-         </div>
-     </div>
-  </div>
-
-  <div class="posts card">
-      <div class="card-content white-text">
-          <span class="card-title">Contacto</span>
-          <div class="row">
-              <div class="offset-by-two eight columns contacto">
-                  <ul>
-                      <li>
-                          <a class="mail" href="mailto:{{site.email}}">
-                          </a>
-                      </li>
-                      <li>
-                          <a class="tlf" href="tel:+34671467937">
-                          </a>
-                      </li>
-                  </ul>
+ <div id="intro" class="section scrollspy">
+  <div class="container">
+      <!--   Icon Section   -->
+    <div class="row">
+        <div  class="col s12 m12 l4">
+            <div class="center promo promo-example">
+                <img class="responsive-img" src="assets/img/feder.png">
+            </div>
+        </div>
+        <div class="col s12 m12 l4">
+            <div class="center promo promo-example">
+                <img class="responsive-img" src="assets/img/xunta.png">
+            </div>
+        </div>
+        <div class="col s12 m12 l4">
+            <div class="center promo promo-example">
+                <img class="responsive-img" src="assets/img/castrelo.png">
+            </div>
+        </div>
+          <div  class="col s12">
+            <h5 class="center header text_h2">
+                <span class="span_h2 "> Os Paxariños  </span> é unha casa niño que nace baixo o plan de Casas niño da Xunta de Galicia.<br>
+                Atópase situada na localidade de <span class="span_h2"> Prado de Miño  </span>, no concello ourensán de <span class="span_h2"> Castrelo de Miño  </span>
+                , enclave privilexiada polo seu entorno natural, rodeado de impresionantes viñas e con unhas espectaculares vistas ao río Miño.
+            </h5>
+              <div class="center-btn">
+                  <a class="btn-floating btn-large waves-effect waves-light  tooltipped" data-position="top" data-delay="50" data-tooltip="Saber Máis" href="{{ site.nosurl }}">
+                      <i class="mdi-content-add"></i>
+                  </a>
               </div>
           </div>
       </div>
+    </div>
   </div>
-  <div class="posts card">
-      <div class="card-content white-text">
-      <span class="card-title">Blog</span>
 
-      <ul class="post-list">
-        {% for post in site.posts %}
-          <li>
-            <span class="post-meta">
-                {{ post.date | date: "%-d/%-m/%Y" }}
-            </span>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>            
-          </li>
-        {% endfor %}
-      </ul>
 
-      <p class="rss-subscribe">subscribete <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-      </div>
-   </div>
+
+
+
+<div class="section scrollspy" id="posts">
+ <div class="container">
+        <br><br>
+        <h2 class="header text_b center paxarinho"> Útimas Entradas </h2>
+      <div class="row">
+
+          {% for post in site.posts limit:6%}
+
+
+
+          <div class="col s12 m10 offset-m1 l4">
+              <div class="card">
+                  <div class="card-image waves-effect waves-block waves-light" style= {%if post.featured-img %} "background: url('{{site.url}}/{{post.featured-img}}');background-size: cover; background-position: center; background-repeat: no-repeat;"{% else %} "background:#43cea2; background: -webkit-linear-gradient(to right, #185a9d, #43cea2);  background: linear-gradient(to right, #185a9d, #43cea2);{% endif %}">
+                      <!--<img class="activator" src="{% if post.featured-img %}{{ site.url }}{{ post.featured-img }}{% else %}{{ site.blogdefaultimgurl }}{% endif %}">-->
+                  </div>
+                  <div class="card-content">
+                      <span class="card-title activator grey-text text-darken-4 paxarinho">{{ post.title | truncate: 20}} <i class="mdi-navigation-more-vert right"></i></span>
+                      <p><a href="{{ post.url | prepend: site.baseurl }}">Ler Máis</a></p>
+                  </div>
+                  <div class="card-reveal">
+                      <span class="card-title grey-text text-darken-4">{{ post.date | date: "%-d/%-m/%Y" }} <i class="mdi-navigation-close right"></i></span>
+
+                      <br>
+                      <h5 class="grey-text text-darken-4 paxarinho">{{ post.title }} </h5>
+                      <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html | truncate: 80 }}</p>
+                      <div class="post-categories">
+                          {% if post %}
+                          {% assign categories = post.categories %}
+                          {% else %}
+                          {% assign categories = page.categories %}
+                          {% endif %}
+                          {% for category in categories %}
+                          <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+                          {% unless forloop.last %}|&nbsp;{% endunless %}
+                          {% endfor %}
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          {% endfor %}
+        </div>
+     <div class="center-btn">
+         <a class="btn-floating btn-large waves-effect waves-light  tooltipped" data-position="left" data-delay="50" data-tooltip="Blog" href="{{ site.blogurl }}">
+             <i class="mdi-content-add"></i>
+         </a>
+         <a style="margin-left: 25px" class="btn-floating btn-large waves-effect waves-light tooltipped " data-position="right" data-delay="50" data-tooltip="Categorias" href="{{ site.caturl }}">
+             <i class="mdi-editor-format-list-bulleted"></i>
+         </a>
+     </div>
+
+  </div>
+     </div>
+  </div>
 
 </div>
+

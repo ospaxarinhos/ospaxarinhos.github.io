@@ -1,25 +1,24 @@
 ---
 title: Bailando
-date: 2017-05-26 01:50:12 Z
+date: 2017-05-26
 categories:
-- actividade
+- Actividade
+- Baile
 layout: post
-author: Alba García.
+featured-img: posts_img/2017/5/26/2017-05-26.jpg
 ---
 
-![hero]({{ site.baseurl }}/assets/Blog/2017/05/2017-05-26.jpg){:class="img-responsive post_image"}
-<br>
+<h5 class="center header text_h2">
+    A pesar do día gris, na casa niño Os Paxariños enchémolo de música e cor.
+    <!--more-->
+    Co baile os cativos integran os nosos movementos e os nosos xestos. Cando bailamos co neno/a mostrase moi interesado,
+     observa os movementos e intenta repetilos. O baile require un gran control da musculatura porque haberá que empezar
+      e rematar un movemento o ritmo da música. Ademáis o bailar dentro do cadrado aprenderá os conceptos dentro-fora.
+    Os nenos/as responden sempre con alegria, placer e entusiasmo ante o baile.
+</h5>
 
-A pesar do día gris, na casa niño Os Paxariños enchémolo de música e cor.
-
-Co baile os cativos integran os nosos movementos e os nosos xestos. Cando bailamos co neno/a mostrase moi interesado, observa os movementos e intenta repetilos.
-O baile require un gran control da musculatura porque haberá que empezar e rematar un movemento o ritmo da música. Ademáis o bailar dentro do cadrado aprenderá os conceptos dentro-fora.
-
-Os nenos/as responden sempre con alegria, placer e entusiasmo ante o baile.
-
-
-
-
-
-
-
+<div class="row">
+    <div class="col s12 m12">
+        <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/5/26/2017-05-26.jpg">
+    </div>
+</div>

@@ -1,13 +1,19 @@
 ---
 title: Pintamos
-date: 2017-06-15 01:50:15 Z
+date: 2017-06-15
 categories:
-- actividade
+- Actividade
+- Pintura
 layout: post
-author: Alba García.
+featured-img: posts_img/2017/6/15/2017-06-15.jpg
 ---
 
-![hero]({{ site.baseurl }}/assets/Blog/2017/06/2017-06-15.jpg){:class="img-responsive post_image"}
-<br>
-
-Experimentamos pintando con garfos. Unha actividade moi divertida na que os cativos dos Paxariños disfrutan coa pintura e na que acabaron pintando coas mans. 
+ <h5 class="center header text_h2">
+	Experimentamos pintando con garfos. 
+ <!--more-->
+ Unha acatividade moi divertida na que os cativos dos Paxariños disfrutan coa pintura e na que acabaron pintando coas mans.
+<div class="row">
+     <div class="col s12 m12">
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/6/15/2017-06-15.jpg">
+     </div>
+ </div>

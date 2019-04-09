@@ -1,13 +1,19 @@
 ---
 title: Acuarelas
-date: 2017-06-29 01:50:16 Z
+date: 2017-06-29
 categories:
-- actividade
+- Actividade
+- Pintura
 layout: post
-author: Alba García.
+featured-img: posts_img/2017/6/29/2017-06-29.jpg
 ---
 
-![hero]({{ site.baseurl }}/assets/Blog/2017/06/2017-06-29.jpg){:class="img-responsive post_image"}
-<br>
-
-Nos Paxariños aprendemos como se forma a pintura con auga pintando con acuarelas, unha actividade na que estiveron entretidos un longo tempo descubrindo e experimentando as cores.
+ <h5 class="center header text_h2">
+	Nos Paxariños aprendemos como se forma a pintura con auga pintando con acuarelas.
+ <!--more-->
+ Unha actividade na que estiveron entretidos un longo tempo descubrindo e experimentando as cores.
+<div class="row">
+     <div class="col s12 m12">
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/6/29/2017-06-29.jpg">
+     </div>
+ </div>

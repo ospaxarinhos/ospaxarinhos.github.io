@@ -1,16 +1,20 @@
 ---
-title: Garabateamos na Pizarra
-date: 2017-06-20 01:50:16 Z
+title: Garabateamos na Pizarra.
+date: 2017-06-20
 categories:
-- actividade
+- Actividade
+- Actividade
 layout: post
-author: Alba García.
+featured-img: posts_img/2017/6/20/2017-06-20.jpg
 ---
 
-![hero]({{ site.baseurl }}/assets/Blog/2017/06/2017-06-20.jpg){:class="img-responsive post_image"}
-<br>
-
-Unha das cousas que realizamos na casa niño Os Paxariños e que as actividades que se fan teñan un "porqué".
-Neste caso os cativos pintan na pizarra co fin de que toquen novas texturas como o xiz. O pintar non solo observan as distintas cores senon que tamén desenrolan a creatividade e a motricidade fina o borrar co borrador.
-
-Con esta actividade observan que ai outras maneiras de pintar.
+ <h5 class="center header text_h2">
+	Unha das cousas que realizamos na casa niño Os Paxariños e que as actividades que se fan teñan un "porqué".
+ <!--more-->
+ Neste caso os cativos garabatean na pizarra co fin de que toquen novas texturas como o xiz. O pintar non solo observan as distintas cores senon que tamén desenrolan a creatividade e a motricidade fina o borrar co borrador.
+ Con esta actividade observan que ai outras maneiras de pintar.
+<div class="row">
+     <div class="col s12 m12">
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/6/20/2017-06-20.jpg">
+     </div>
+ </div>

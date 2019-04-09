@@ -1,19 +1,20 @@
 ---
 title: Puzzles
-date: 2017-05-4 01:50:12 Z
+date: 2017-05-04
 categories:
-- actividade
+- Actividade
+- Xogo
 layout: post
-author: Alba García.
+featured-img: posts_img/2017/5/4/2017-05-4.jpg
 ---
 
-![hero]({{ site.baseurl }}/assets/Blog/2017/05/2017-05-4.jpg){:class="img-responsive post_image"}
-<br>
-
-Os nenos/as dos Paxariños xogan con puzzles onde desenrolan a súa intelixencia, concentracción e motricidade fina.
-
-Un neno/a pode manexar un puzzle de encaixe si o deixamos tranquilamente seguindo a súa lóxica.
-
-Unha actividade moi entretida na que quitan e poñen as pezas.
-
-
+ <h5 class="center header text_h2">
+    Os nenos/as dos Paxariños xogan con puzzles onde desenrolan a súa intelixencia, concentracción e motricidade fina.
+     <!--more-->
+    Un neno/a pode manexar un puzzle de encaixe si o deixamos tranquilamente seguindo a súa lóxica.
+    Unha actividade moi entretida na que quitan e poñen as pezas.
+ <div class="row">
+     <div class="col s12 m12">
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/5/4/2017-05-4.jpg">
+     </div>
+ </div>

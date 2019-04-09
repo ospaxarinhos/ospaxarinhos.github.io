@@ -1,16 +1,19 @@
 ---
 title: Verán
-date: 2017-06-21 01:50:16 Z
+date: 2017-06-21
 categories:
-- actividade
+- Actividade
+- Actividade
 layout: post
-author: Alba García.
+featured-img: posts_img/2017/6/21/2017-06-21.jpg
 ---
 
-![hero]({{ site.baseurl }}/assets/Blog/2017/06/2017-06-21.jpg){:class="img-responsive post_image"}
-<br>
-
-Hoxe comeza o verán, e como non, na casa niño Os Paxariños os peques gozaron chapuceando na auga.
-
-Unha actividade moi divertida e refrescante para combatir esta calor.
-
+ <h5 class="center header text_h2">
+	Hoxe comeza o verán, e como non, na casa niño Os Paxariños os peques gozaron chapuceando na auga.
+ <!--more-->
+ Unha actividade moi divertida e refrescante para combatir esta calor.
+<div class="row">
+     <div class="col s12 m12">
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/6/21/2017-06-21.jpg">
+     </div>
+ </div>
