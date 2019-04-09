@@ -1,0 +1,19 @@
+---
+title: Cor Vermella
+date: 2018-09-13 01:50:16 Z
+categories:
+- actividade
+layout: post
+author: Alba García.
+---
+
+![hero]({{ site.baseurl }}/assets/Blog/2018/09/2018-09-13.jpg){:class="img-responsive post_image"}
+<br>
+
+Os nenos e nenas dos Paxariños encántalles a pintura de mans. A súa textura suave e a súa cor chamativa fai que os cativos mostren interés sobre ela. 
+A cor roxa é unha das cores primarias e con ela divertimonos pintando e experimentando. Pintamos unha mazá con exponxas e posteriormente acabouse pintando coas mans.
+
+Os nenos e nenas disfrutaron dunha mañán de pintura.
+
+![hero]({{ site.baseurl }}/assets/Blog/2018/09/2018-09-133.jpg){:class="img-responsive post_image"}
+<br>
