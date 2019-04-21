@@ -21,7 +21,7 @@ Esta sencilla actividade permite desenrolar a motricidade grosa o buscar os ovos
          <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/04/17/2019-04-177.jpg">
      </div>
 	  <div class="col s12 m6">
-         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/04/17/2019-04-91777.jpg">
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/04/17/2019-04-1777.jpg">
      </div>
 	 
  </div>
