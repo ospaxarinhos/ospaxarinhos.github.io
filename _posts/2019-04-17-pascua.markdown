@@ -1,0 +1,27 @@
+---
+title: Pascua
+date: 2019-04-17
+categories:
+- Actividade
+- Xogo
+layout: post
+featured-img: posts_img/2019/04/17/2019-04-17.jpg
+---
+ <h5 class="center header text_h2">
+
+Buscando os ovos de pascua. 
+ <!--more-->
+Os cativos dos Paxariños buscaron por toda a casiña os ovos de pascua que estaban escondidos. 
+Que sopresa e alegria cando os encontraban! E que ricos!
+
+Esta sencilla actividade permite desenrolar a motricidade grosa o buscar os ovos, e o sentido do gusto o probalos. Unha actividade moi dulce.
+
+<div class="row">
+     <div class="col s12 m6">
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/04/17/2019-04-177.jpg">
+     </div>
+	  <div class="col s12 m6">
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/04/17/2019-04-91777.jpg">
+     </div>
+	 
+ </div>
