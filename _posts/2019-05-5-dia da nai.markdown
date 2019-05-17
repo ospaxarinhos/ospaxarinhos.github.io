@@ -7,11 +7,9 @@ layout: post
 featured-img: posts_img/2019/05/5/2019-05-5.jpg
 ---
  <h5 class="center header text_h2">
-
-Felicidades... 
-</h5>
- <!--more-->
 Felicidades a todas as mamás!!
+ <!--more-->
+
 
 <div class="row">
      <div class="col s12 m12">
