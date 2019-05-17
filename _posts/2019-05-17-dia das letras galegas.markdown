@@ -3,6 +3,7 @@ title: Día das letras Galegas
 date: 2019-05-17
 categories:
 - Actividade
+- Letras Galegas
 layout: post
 featured-img: posts_img/2019/05/17/2019-05-17.jpg
 ---
