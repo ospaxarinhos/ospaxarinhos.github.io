@@ -13,7 +13,7 @@ Felicidades...
 Felicidades a todas as mamás!!
 
 <div class="row">
-     <div class="col s12 m4">
+     <div class="col s12 m12">
 	 
          <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/05/5/2019-05-5.jpg">
 		 
