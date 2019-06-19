@@ -8,7 +8,7 @@ layout: post
 featured-img: posts_img/2019/05/28/2019-05-28.jpg
 ---
  <h5 class="center header text_h2">
-xogando con plastilina
+xogando con plastilina.
  <!--more-->
 Os nenos e nenas encantalles xogar coa plastilina porque é un material blando e lle permite moldear o seu gusto. Con ela desenrolan a motricidade fina, a creativivdade, diferencian as diferentes cores, axudalles a concentrarse e relajarse, e desenrolan a expresión artística a través dos debuxos e formas.
 
