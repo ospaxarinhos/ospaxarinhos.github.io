@@ -1,5 +1,5 @@
 ---
-title: Verán
+title: Veran
 date: 2019-06-24
 categories:
 - Actividade
