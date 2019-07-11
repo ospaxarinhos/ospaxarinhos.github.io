@@ -8,7 +8,7 @@ layout: post
 featured-img: posts_img/2019/06/24/2019-06-24.jpg
 ---
  <h5 class="center header text_h2">
-Barqquiños.
+Barquiños.
  <!--more-->
 Xogamos con barquiños na auga, feitos con palliñas de cores. A auga estimula o descubrimento, a creatividade e imaxinación, ademais, é unha forma de relaxarse e concentrarse.
 
