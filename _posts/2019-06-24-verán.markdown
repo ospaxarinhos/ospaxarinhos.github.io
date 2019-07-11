@@ -1,0 +1,27 @@
+---
+title: Verán
+date: 2019-06-24
+categories:
+- Actividade
+- xogo
+layout: post
+featured-img: posts_img/2019/06/24/2019-06-24.jpg
+---
+ <h5 class="center header text_h2">
+Barqquiños.
+ <!--more-->
+Xogamos con barquiños na auga, feitos con palliñas de cores. A auga estimula o descubrimento, a creatividade e imaxinación, ademais, é unha forma de relaxarse e concentrarse.
+
+<div class="row">
+     <div class="col s12 ">
+	 
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/06/244/2019-06-244.jpg">
+		 
+     </div>
+
+	 
+  
+ 
+ 
+ 
+
