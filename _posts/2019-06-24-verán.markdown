@@ -15,7 +15,7 @@ Xogamos con barquiños na auga, feitos con palliñas de cores. A auga estimula o
 <div class="row">
      <div class="col s12 ">
 	 
-         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/06/244/2019-06-244.jpg">
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/06/24/2019-06-244.jpg">
 		 
      </div>
 
