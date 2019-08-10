@@ -11,7 +11,7 @@ featured-img: posts_img/2019/07/31/2019-07-31.jpg
 Festa fin de curso.
  <!--more-->
 A festa das pompas e xabón é unha das máis especiais do ano, onde os cativos o pasan en grande.
-Gracias un ano máis por a vosa confianza, hoxe podo decir um Adeus e um Hasta Pronto! 
+Gracias un ano máis por a vosa confianza, hoxe podo decir un Adeus e un Hasta Pronto! 
 
 Volveremos o 2 de septembro con novas e grandes aventuras!
 
