@@ -21,13 +21,13 @@ Adaptación.
 <div class="row">
      <div class="col s12 m6">
 	 
-         <img class="responsive-img" src="{{ site.baseurl }}posts_img/2019/09/2/2019-09-22.jpg">
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/09/2/2019-09-22.jpg">
 		 
      </div>
 
 	    <div class="col s12 m6">
 	 
-         <img class="responsive-img" src="{{ site.baseurl }}posts_img/2019/09/2/2019-09-222.jpg">
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/09/2/2019-09-222.jpg">
 		 
      </div>
   
