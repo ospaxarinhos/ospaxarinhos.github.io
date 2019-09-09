@@ -11,7 +11,7 @@ featured-img: posts_img/2019/09/9/2019-09-9.jpg
 A vendima.
  <!--more-->
  A vendima realizase entre os meses de septembro e outubro, dependendo da zona vinícola. Así que nos Paxariños tamén nos unimos os vinicultores donde realizamos un sinxela actividade.
- os nenos e nenas xogaron coas uvas tocandoas, probandoas, e experimetando con elas, ata os máis cativos mostraron curiosidade. Toda unha experiencia!
+ Os nenos e nenas xogaron coas uvas tocandoas, probandoas, e experimetando con elas, ata os máis cativos mostraron curiosidade. Toda unha experiencia!
 
 
 
