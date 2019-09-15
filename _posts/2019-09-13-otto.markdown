@@ -1,0 +1,30 @@
+---
+title: OTT0
+date: 2019-09-13
+categories:
+- Actividade
+- xogo
+layout: post
+featured-img: posts_img/2019/09/13/2019-09-13.jpg
+---
+ <h5 class="center header text_h2">
+OTTO.
+ <!--more-->
+ Hoxe presentamos a OTTO, a nosa mascota dos Paxariños que nos acompañará durante todo o curso. Cada fin de semana o neno/a levará a OTTO para vivir grandes aventuras con él.
+ Esta actividade comezará en outubro. 
+ OTTO está desexando coñecer a vosa casa!!
+
+
+<div class="row">
+     <div class="col s12 m12">
+	 
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/09/13/2019-09-133.jpg">
+		 
+     </div>
+
+	   
+  
+ 
+ 
+ 
+
