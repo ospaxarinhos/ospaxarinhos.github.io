@@ -1,0 +1,44 @@
+---
+title: Outono
+date: 2019-09-24
+categories:
+- Actividade
+- taller
+layout: post
+featured-img: posts_img/2019/09/24/2019-09-24.jpg
+---
+ <h5 class="center header text_h2">
+Outono.
+ <!--more-->
+Os nenos e nenas dos Paxariños descubren o outono xogando coas follas das árbores. Tocan, manipulan e experimentan.
+Coa axuda da educadora os pequenos realizan esta orixinal curuxa coas follas secas. Que contentos marcharon para casa co seu traballo e esforzo. Moi ben paxariños!!
+
+
+<div class="row">
+     <div class="col s12 m4">
+	 
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/09/24/2019-09-244.jpg">
+		 
+     </div>
+<div class="col s12 m4">
+	 
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/09/24/2019-09-2444.jpg">
+		 
+     </div>
+<div class="col s12 m4">
+	 
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/09/24/2019-09-24444.jpg">
+		 
+     </div>
+<div class="col s12 m4">
+	 
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/09/24/2019-09-244444.jpg">
+		 
+     </div>
+
+	   
+  
+ 
+ 
+ 
+
