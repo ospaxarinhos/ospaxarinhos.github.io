@@ -5,7 +5,7 @@ categories:
 - Actividade
 - taller
 layout: post
-featured-img: posts_img/2019/10/11/2019-09-11.jpg
+featured-img: posts_img/2019/10/1/2019-09-11.jpg
 ---
  <h5 class="center header text_h2">
 Cor vermella
