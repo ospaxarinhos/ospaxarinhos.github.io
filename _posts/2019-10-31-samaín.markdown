@@ -1,0 +1,31 @@
+---
+title: Samaín 2019
+date: 2019-10-31
+categories:
+- Actividade
+- festa
+layout: post
+featured-img: posts_img/2019/10/31/2019-10-31.jpg
+---
+ <h5 class="center header text_h2">
+Samaín.
+ <!--more-->
+Chegou o Samaín os Paxariños. Música, risas e xogos foron o pricipal para esta gran festa onde os nenos e nenas o celebraron na compaña dos pais, avós e irmáns.
+
+
+<div class="row">
+     <div class="col s6 m12">
+	 
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/10/31/2019-10-311.jpg">
+		 
+     </div>
+
+<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/10/31/2019-10-3111.jpg">
+		 
+     </div>
+	   
+  
+ 
+ 
+ 
+
