@@ -8,7 +8,7 @@ layout: post
 featured-img: posts_img/2019/11/11/2019-11-11.jpg
 ---
  <h5 class="center header text_h2">
-Magosto.
+Magosto..
  <!--more-->
 No outono non poden faltar as castañas. O magosto unha festa tradicional en Galicia especialmente en Ourense onde a xente se xunta para divertirse e asar as castañas nunha gran fogata.
 Na casa niño Os Paxariños non podian faltas as castañas. Os nenos e nenas levaron para a casa unha presa de castañas para repartir con avós, pais, irmáns...e faer asi a súa fogata.
