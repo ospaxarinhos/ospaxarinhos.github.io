@@ -1,0 +1,32 @@
+---
+title: Magosto 2019
+date: 2019-11-11
+categories:
+- Actividade
+- festa
+layout: post
+featured-img: posts_img/2019/11/11/2019-11-11.jpg
+---
+ <h5 class="center header text_h2">
+Magosto.
+ <!--more-->
+No outono non poden faltar as castañas. O magosto unha festa tradicional en Galicia especialmente en Ourense onde a xente se xunta para divertirse e asar as castañas nunha gran fogata.
+Na casa niño Os Paxariños non podian faltas as castañas. Os nenos e nenas levaron para a casa unha presa de castañas para repartir con avós, pais, irmáns...e faer asi a súa fogata.
+
+
+<div class="row">
+     <div class="col s6 m12">
+	 
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/11/11/2019-11-111.jpg">
+		 
+     </div>
+
+<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/11/11/2019-11-1111.jpg">
+		 
+     </div>
+	   
+  
+ 
+ 
+ 
+
