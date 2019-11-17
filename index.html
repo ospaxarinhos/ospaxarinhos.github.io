@@ -55,7 +55,7 @@ description: " - Os paxariños"
 
           <div class="col s12 m10 offset-m1 l4">
               <div class="card">
-                  <div class="card-image waves-effect waves-block waves-light" style= {%if post.featured-img %} "background: url('{{site.url}}/{{post.featured-img}}');background-size: cover; background-position: center; background-repeat: no-repeat;"{% else %} "background:#43cea2; background: -webkit-linear-gradient(to right, #185a9d, #43cea2);  background: linear-gradient(to right, #185a9d, #43cea2);{% endif %}">
+                  <div class="card-image waves-effect waves-block waves-light" style= {%if post.featured-img %} "background: url('{{site.url}}{{post.featured-img}}');background-size: cover; background-position: center; background-repeat: no-repeat;"{% else %} "background:#43cea2; background: -webkit-linear-gradient(to right, #185a9d, #43cea2);  background: linear-gradient(to right, #185a9d, #43cea2);{% endif %}">
                       <!--<img class="activator" src="{% if post.featured-img %}{{ site.url }}{{ post.featured-img }}{% else %}{{ site.blogdefaultimgurl }}{% endif %}">-->
                   </div>
                   <div class="card-content">
