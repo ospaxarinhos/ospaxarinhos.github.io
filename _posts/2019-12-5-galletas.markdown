@@ -15,10 +15,11 @@ Os máis pequenos enocionanse, riense e divírtense coa cociña o mesmo tempo qu
 
 <div class="row">
     <div class="col s12 m3">
-		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/12/5/2019-15-55.jpg">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/12/5/2019-12-55.jpg">
 	</div>
-	 
-	<div class="col s12 m3"> 
+</div>
+	
+	 <div class="col s12 m3"> 
 		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/12/5/2019-12-555.jpg">	 
      </div>	 
 </div>
