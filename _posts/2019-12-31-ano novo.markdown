@@ -1,0 +1,24 @@
+---
+title: Ano Novo
+date: 2019-12-31
+categories:
+- Actividade
+layout: post
+featured-img: posts_img/2019/12/31/2019-12-31.jpg
+---
+ <h5 class="center header text_h2">
+Ano novo.
+ <!--more-->
+Dende a casa niño os Paxariños queremos desexarlles un feliz e próspero ano novo.
+
+<div class="row">
+    <div class="col s12 m12">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2019/12/31/2019-12-311.jpg">
+	</div>
+	
+	   
+  
+ 
+ 
+ 
+
