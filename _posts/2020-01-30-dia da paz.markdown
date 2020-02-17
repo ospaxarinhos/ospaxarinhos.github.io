@@ -1,0 +1,26 @@
+---
+title: Día da Paz
+date: 2020-01-30
+categories:
+- Actividade
+layout: post
+featured-img: posts_img/2020/01/30/2020-01-30.jpg
+---
+ <h5 class="center header text_h2">
+Día da paz.
+ <!--more-->
+Os cativos dos Paxariños celebran o día escolar da non violencia e da paz. Coa axuda da educadora pintan un gran mural.
+<div class="row">
+    <div class="col s12 m6">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/01/30/2020-01-300.jpg">
+	</div>
+	
+	    <div class="col s12 m6">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/01/30/2020-01-3000.jpg">
+	</div>
+	
+	
+	
+ 
+ 
+
