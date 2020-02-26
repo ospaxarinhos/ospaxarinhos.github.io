@@ -1,0 +1,27 @@
+---
+title: Entroido 2020
+date: 2020-02-21
+categories:
+- Festa
+layout: post
+featured-img: posts_img/2020/02/21/2020-02-21.jpg
+---
+ <h5 class="center header text_h2">
+Entroido.
+ <!--more-->
+Os cativos da casa niño os Paxariños viviron un día de troula cos seus disfraces de abellas. Os disfraces foron elaborados por a educadora e a axuda dos neno/as.
+<div class="row">
+    <div class="col s12 m6">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/02/21/2020-02-211.jpg">
+	</div>
+	
+	 <div class="col s12 m6">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/02/21/2020-02-2111
+		.jpg">
+	</div>
+	
+	
+	
+ 
+ 
+
