@@ -9,7 +9,7 @@ featured-img: posts_img/2020/03/12/2020-03-12.jpg
  <h5 class="center header text_h2">
 AVISO.
  <!--more-->
-Espero ver os meus pequenos moi pronto.
+Espero vervos moi pronto!
 <div class="row">
     <div class="col s12 m12">
 		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/03/12/2020-03-12.jpg">
