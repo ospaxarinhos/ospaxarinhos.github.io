@@ -4,7 +4,7 @@ date: 2020-03-12
 categories:
 - aviso
 layout: post
-featured-img: posts_img/2020/03/12/2020-03-12.jpg
+featured-img: posts_img/2020/03/12/2020-03-12.png
 ---
  <h5 class="center header text_h2">
 AVISO.
@@ -12,7 +12,7 @@ AVISO.
 Espero vervos moi pronto!
 <div class="row">
     <div class="col s12 m12">
-		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/03/12/2020-03-12.jpg">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/03/12/2020-03-12.png">
 	</div>
 	
 	 
