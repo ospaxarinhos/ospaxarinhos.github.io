@@ -4,7 +4,7 @@ date: 2020-04-2
 categories:
 - actividade
 layout: post
-featured-img: posts_img/2020/04/12/2020-04-2.jpg
+featured-img: posts_img/2020/04/2/2020-04-2.jpg
 ---
  <h5 class="center header text_h2">
 Actividades na casa para faer cos papás.
