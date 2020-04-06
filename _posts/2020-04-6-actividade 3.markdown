@@ -1,6 +1,6 @@
 ---
 title: Actividades na casa 3
-date: 2020-04-6
+date: 2020-04-6 12:00:00
 categories:
 - actividade
 layout: post
