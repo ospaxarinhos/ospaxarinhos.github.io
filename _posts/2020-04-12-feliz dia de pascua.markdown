@@ -12,7 +12,7 @@ Feliz Día de Pascua.
 Feliz día de pascua pequenos paxariños.
 
 <div class="row">
-    <div class="col s12 m12">
+    <div class="col s12 m6 offset-m3">
 		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/04/12/2020-04-122.jpg">
 	</div>
  
@@ -20,7 +20,9 @@ Feliz día de pascua pequenos paxariños.
 
 <div class="row">
 	Actividades dos nenos/as na casa.
+</div>
 
+<div class="row">
 	<div class="col s12 m6">
 		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/04/12/2020-04-1222.jpg">
 	</div>
