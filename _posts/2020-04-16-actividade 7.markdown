@@ -10,7 +10,7 @@ featured-img: posts_img/2020/04/16/2020-04-16.jpg
 Actividades na casa para faer cos papás.
  <!--more-->
 Aquí vos deixo outra actividade de psicomotricidade fina.
-Con un escurridor e unhas palliñas temos que intentar meter as palliñas nos buracos do escurridor. O neno/a desnrolará a acapacidade de concentración.
+Con un escurridor e unhas palliñas temos que intentar meter as palliñas nos buracos do escurridor. O neno/a desenrolará a capacidade de concentración.
 
 <div class="row">
     <div class="col s12 m12">
