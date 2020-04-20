@@ -10,7 +10,7 @@ featured-img: posts_img/2020/04/20/2020-04-20.jpg
 Actividades na casa para faer cos papás.
  <!--more-->
 Aprendendo as formas "o círculo" dunha maneira moi divertida.
-Esta actividade que propoñemos permítelle o neno/a desenrolar a capacidade de concentración, o sentido da vista (xa que pode observar moitas cores), relaconase tamén cas cores e pode experimentar según lle conveña.
+Esta actividade que propoñemos permítelle o neno/a desenrolar a capacidade de concentración, o sentido da vista (xa que pode observar moitas cores)e pode experimentar según lle conveña.
 
 
 <div class="row">
