@@ -9,18 +9,14 @@ featured-img: posts_img/2020/04/23/2020-04-23.jpg
  <h5 class="center header text_h2">
 Actividades na casa para faer cos papás.
  <!--more-->
-Hoxe a actividade vai dedicada o Día do Libro. Un marcapáxinas do monstruo de cores para os nosos contos. <a href="{{ site.baseurl }}/posts_pdf/2020/04/23/marcapaginas.pdf">Aquí</a> vos deixo un pdf donde podedes imprimir o marcapáxinas. 
+Hoxe a actividade vai dedicada o Día do Libro. Un marcapáxinas do monstruo de cores para os nosos contos. <a style="text-decoration:underline" href="{{ site.baseurl }}/posts_pdf/2020/04/23/marcapaginas.pdf">Aquí vos deixo un pdf donde podedes imprimir o marcapáxinas</a>. 
 Primeiro coloreamolo según lle conveña o neno/a, a continuación coa axuda de mamá ou papá recortámolo. E finalmente para que quede máis consistente podemos plastificalo. 
 
 <div class="row">
     <div class="col s12 m6">
 		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/04/23/2020-04-233.jpg">
 	</div>
-</div>
 	
-	 
-
- <div class="row">
     <div class="col s12 m6">
 		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/04/23/2020-04-2333.jpg">
 	</div>
