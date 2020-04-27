@@ -1,0 +1,28 @@
+---
+title: Actividades na casa 11
+date: 2020-04-27
+categories:
+- actividade
+layout: post
+featured-img: posts_img/2020/04/27/2020-04-27.jpg
+---
+ <h5 class="center header text_h2">
+Actividades na casa para faer cos papás.
+ <!--more-->
+Aquí vos deixo algunhas actividades. Con elas os nenos e nenas desenrolan a motricidade fina, concentración, a creatividade, manipulan diferentes texturas e denrolan a creatividade.
+Solo necesitamos algodó, pintura, unha botella pequena e un rollo de papel de baño. Son actividades moi sinxelas, realizadas con materiaias que seguramente todos temos por casa.
+
+<div class="row">
+    <div class="col s12 m4">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/04/27/2020-04-277.jpg">
+	</div>
+	
+    <div class="col s12 m4">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/04/27/2020-04-2777.jpg">
+	</div>
+</div>
+
+     <div class="col s12 m4">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/04/27/2020-04-27777.jpg">
+	</div>
+</div>
