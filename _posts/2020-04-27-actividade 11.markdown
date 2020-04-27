@@ -20,7 +20,6 @@ Solo necesitamos algodó, pintura, unha botella pequena e un rollo de papel de b
     <div class="col s12 m4">
 		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/04/27/2020-04-2777.jpg">
 	</div>
-</div>
 
      <div class="col s12 m4">
 		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/04/27/2020-04-27777.jpg">
