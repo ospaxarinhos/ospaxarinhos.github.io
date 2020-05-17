@@ -13,7 +13,7 @@ Día Das Letras Galegas, adicado a Ricardo Carvalho Calero.
 
 <div class="row">
     <div class="col s12 m12">
-		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/05/17/2020-05-177.jpg">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/05/17/2020-05-177.png">
 	</div>
 </div>
  
