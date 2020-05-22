@@ -1,0 +1,20 @@
+---
+title: Actividades na casa 17
+date: 2020-05-22
+categories:
+- actividade
+layout: post
+featured-img: posts_img/2020/05/22/2020-05-22.jpg
+---
+ <h5 class="center header text_h2">
+Actividades na casa para faer cos papás.
+ <!--more-->
+Con esta calor que mellor exercicio que xogar con auga, e aos peques sabemos que lles encanta!
+Deixovos un exercicio de trasvasar. Unha esponxa e dous recipientes, un vacio e outro con auga. O neno/a deberá mollar a esponxa e apretando vaciar a auga no outro repiciente. Con este exercicio axudamos a coordinación oculo-manual, a súa motricidade fina, concentración, destreza e forza.
+
+<div class="row">
+    <div class="col s12 m12">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/05/22/2020-05-222.png">
+	</div>
+</div>
+ 
