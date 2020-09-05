@@ -1,13 +1,13 @@
 ---
-title: Comunicado
-date: 2020-05-29
+title: Comezamos!
+date: 2020-09-1
 categories:
 - actividade
 layout: post
-featured-img: posts_img/2020/05/29/2020-05-29.png
+featured-img: posts_img/2020/09/1/2020-09-1.png
 ---
  <h5 class="center header text_h2">
-Comunicado.
+Comezamos.
  <!--more-->
 Despois de 6 meses comezamos con moitos nervios e incertidume pero o mesmo tempo con moitas ganas e ilusión!
 
