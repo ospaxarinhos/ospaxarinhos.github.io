@@ -19,12 +19,13 @@ Preparandonos para o outono.
     <div class="col s12 m6">
 		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/09/25/2020-09-25555.jpg">
 	</div>
-
+</div>
+<div class="row">
     <div class="col s12 m6">
 		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/09/25/2020-09-2555.jpg">
 	</div>
 	
     <div class="col s12 m6">
-		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/09/25/IMG-2020092223.jpg">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/09/25/IMG-2020092223.jpeg">
 	</div>
 </div>
