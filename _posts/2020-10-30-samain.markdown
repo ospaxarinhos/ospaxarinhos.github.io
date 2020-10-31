@@ -1,0 +1,40 @@
+---
+title: Samaín
+date: 2020-10-30
+categories:
+- actividade
+layout: post
+featured-img: posts_img/2020/10/30/2020-10-30.jpg
+---
+ <h5 class="center header text_h2">
+Samaín.
+ <!--more-->
+Na casa niño Os Paxariños tamén se viviu o samaín dunha forma terrorífica.
+
+<div class="row">
+    <div class="col s12 m6">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/10/30/2020-10-30.jpg">
+	</div>
+
+    <div class="col s12 m6">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/10/30/2020-10-300.jpg">
+	</div>
+</div>
+<div class="row">
+    <div class="col s12 m6">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/10/30/2020-10-3000.jpg">
+	</div>
+	
+    <div class="col s12 m6">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/09/25/2020-10-30000.jpg">
+	</div>
+</div>
+<div class="row">
+    <div class="col s12 m6">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/10/30/2020-10-300000.jpg">
+	</div>
+	
+    <div class="col s12 m6">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/09/25/2020-10-3000000.jpg">
+	</div>
+</div>
