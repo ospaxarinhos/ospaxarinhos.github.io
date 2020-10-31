@@ -26,7 +26,7 @@ Na casa niño Os Paxariños tamén se viviu o samaín dunha forma terrorífica.
 	</div>
 	
     <div class="col s12 m6">
-		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/09/25/2020-10-30000.jpg">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/10/30/2020-10-30000.jpg">
 	</div>
 </div>
 <div class="row">
@@ -35,6 +35,6 @@ Na casa niño Os Paxariños tamén se viviu o samaín dunha forma terrorífica.
 	</div>
 	
     <div class="col s12 m6">
-		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/09/25/2020-10-3000000.jpg">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/10/30/2020-10-3000000.jpg">
 	</div>
 </div>
