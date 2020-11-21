@@ -7,7 +7,7 @@ layout: post
 featured-img: posts_img/2020/11/20/2020-11-20.jpg
 ---
  <h5 class="center header text_h2">
-Día dos nenos/as
+Día dos nenos/as.
  <!--more-->
 
 Súbete o noso tren para chegar moi lonxe!
