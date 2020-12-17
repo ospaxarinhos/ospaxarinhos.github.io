@@ -1,0 +1,19 @@
+---
+title: Nadal
+date: 2020-12-17
+categories:
+- actividade
+layout: post
+featured-img: posts_img/2020/12/17/2020-12-17.jpg
+---
+ <h5 class="center header text_h2">
+
+ <!--more-->
+
+Nadal na casa niño Os Paxariños.
+
+<div class="row">
+    <div class="col s12 m12">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2020/12/17/2020-12-177.jpg">
+</div>
+
