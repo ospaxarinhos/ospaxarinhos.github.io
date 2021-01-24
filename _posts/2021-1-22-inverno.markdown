@@ -1,0 +1,21 @@
+---
+title: O Inverno!
+date: 2021-1-22
+categories:
+- actividade
+layout: post
+featured-img: posts_img/2021/1/22/2021-1-22.jpg
+---
+ <h5 class="center header text_h2">
+
+ <!--more-->
+
+Benvido inverno!
+
+Mnipulamos, exploramos, imaxinamos, e sobre todo aprendemos diferentes técnicas de pintura.
+
+<div class="row">
+    <div class="col s12 m12">
+		<img class="responsive-img" src="{{ site.baseurl }}/posts_img/2021/1/22/2021-1-222.jpg">
+</div>
+
