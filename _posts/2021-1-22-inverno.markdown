@@ -12,7 +12,7 @@ featured-img: posts_img/2021/1/22/2021-1-22.jpg
 
 Benvido inverno!
 
-Mnipulamos, exploramos, imaxinamos, e sobre todo aprendemos diferentes técnicas de pintura.
+Manipulamos, exploramos, imaxinamos, e sobre todo aprendemos diferentes técnicas de pintura.
 
 <div class="row">
     <div class="col s12 m12">
