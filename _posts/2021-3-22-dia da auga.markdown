@@ -7,7 +7,7 @@ layout: post
 featured-img: posts_img/2021/3/22/2021-3-22.jpg
 ---
  <h5 class="center header text_h2">
- Trasvasamos cpn esponxas.
+ Trasvasamos con esponxas.
 
 <div class="row">
     <div class="col s12 m6">
